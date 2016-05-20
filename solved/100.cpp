@@ -58,4 +58,5 @@ int main(int argc, char** argv)
 		}
 		cout << maxcycle << endl;
 	}
+	return 0;
 }
